@@ -36,8 +36,6 @@
 		<Unit filename="Consumen.h" />
 		<Unit filename="Goods.cpp" />
 		<Unit filename="Goods.h" />
-		<Unit filename="Relation.cpp" />
-		<Unit filename="Relation.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

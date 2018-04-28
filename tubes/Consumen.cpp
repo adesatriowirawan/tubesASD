@@ -96,4 +96,3 @@ void deleteLast(SingleList &L, address_s &P) {
 }
 
 
-#LALALA
